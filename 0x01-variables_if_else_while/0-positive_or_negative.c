@@ -1,11 +1,9 @@
-#include <stdlib.h>
-#include <time.h>
-#include <stdio.h>
-
+#include <stdlib.h>                               #include <time.h>
+#include <stdio.h>                                
 /**
  * main - Entry point
  *
- * Return: Alway 0 (Success/correct)
+ * Return: Always 0 (Success/correct)
  */
 
 int main(void)
